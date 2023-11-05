@@ -1,0 +1,19 @@
+{
+  "name": "InquirerJS",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Romaric MADEGNAN",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
